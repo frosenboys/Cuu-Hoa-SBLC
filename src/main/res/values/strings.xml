@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">SBLC Controller</string>
+    <string name="fire" translatable="false">Bắn</string>
+    <string name="connect" translatable="false">Kết nối</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="BGgamePad" translatable="false">GamePad</string>
+    <string name="List" translatable="false">Danh sách đã kết nối</string>
+    <string name="Find" translatable="false">Tìm kiếm thiết bị</string>
+    <string name="todo">TODO</string>
+</resources>
